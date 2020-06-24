@@ -1,0 +1,15 @@
+## Env File ##
+project-env
+
+## PyCharm File ##
+.idea
+
+## DataSet ##
+data
+
+## Model file ##
+model
+
+## Data result ##
+2020522161939_ppd.csv
+2020522161958_credit.csv
